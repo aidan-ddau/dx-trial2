@@ -1,0 +1,205 @@
+[
+    [
+        "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537848276901,
+            "changeTime": 1537848276901,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537848276902,
+            "changeTime": 1537848276902,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537849132089,
+            "changeTime": 1537849132089,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537848276904,
+            "changeTime": 1537848276904,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537848322188,
+            "changeTime": 1537848322188,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\objects\\tgeargWS__c\\tgeargWS__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\objects\\tgeargWS__c\\tgeargWS__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2070,
+            "modifiedTime": 1537849131986,
+            "changeTime": 1537849131986,
+            "contentHash": "de4d90632c613b255da41c3afcdbf6eccfb06b43"
+        }
+    ],
+    [
+        "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\layouts\\tgeargWS__c-test Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\layouts\\tgeargWS__c-test Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1537849132034,
+            "changeTime": 1537849132034,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18055,
+            "modifiedTime": 1537849132135,
+            "changeTime": 1537849132135,
+            "contentHash": "0e73921ef67a60aa6c9fe7060aeb2d03cea8107e"
+        }
+    ],
+    [
+        "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4304,
+            "modifiedTime": 1537849132170,
+            "changeTime": 1537849132170,
+            "contentHash": "2a03f9e7f7916f40c2b3972b8befff967960c768"
+        }
+    ],
+    [
+        "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4304,
+            "modifiedTime": 1537849132230,
+            "changeTime": 1537849132230,
+            "contentHash": "2a03f9e7f7916f40c2b3972b8befff967960c768"
+        }
+    ],
+    [
+        "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4642,
+            "modifiedTime": 1537849132267,
+            "changeTime": 1537849132267,
+            "contentHash": "49fd6a4c9fb96f605f9c6062b41ef8c41fe514dc"
+        }
+    ],
+    [
+        "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\objects\\tgeargWS__c",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\objects\\tgeargWS__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537849131972,
+            "changeTime": 1537849131972,
+            "contentHash": "f18a722e38cf92b0d683091073a217d50c2a67e0"
+        }
+    ],
+    [
+        "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537849131964,
+            "changeTime": 1537849131964,
+            "contentHash": "8a928cd8b18d65cc4d1923f4286d25ff5ba8f9c4"
+        }
+    ],
+    [
+        "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537849132010,
+            "changeTime": 1537849132010,
+            "contentHash": "5188b63602ab2f203f43e6cc0b3f2b16c6377497"
+        }
+    ],
+    [
+        "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\vkyriakou\\Documents\\GitKraken2\\dx-trial2\\Test\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537849132254,
+            "changeTime": 1537849132254,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
